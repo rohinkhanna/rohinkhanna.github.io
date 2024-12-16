@@ -1,36 +1,36 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Rohin Khanna",
+    "label": "Data Science | Product Management | Business Operations",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "rohinkhanna88@gmail.com",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://rohinkhanna.github.io",
+    "summary": "MBA from IIMB with 15 years of experience in Data Science, Product Management, and Business Operations",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Whitefield",
+      "postalCode": "KA 560048",
+      "city": "Bengaluru",
+      "countryCode": "India",
+      "region": "Karnataka"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "RohinKhanna",
+        "url": "https://www.linkedin.com/in/rohinkhanna/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Wells Fargo",
+      "position": "Vice President - Data Science",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2020",
+      "endDate": "Present",
+      "summary": "Design and architecture for AI/LLM/GenAI powered solutions",
+      "highlights": ["GenAI Solution Architecture"]
     }
   ],
   "volunteer": [
