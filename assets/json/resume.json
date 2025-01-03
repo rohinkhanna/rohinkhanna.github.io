@@ -4,9 +4,8 @@
     "label": "Data Science | Product Management | Business Operations",
     "image": "",
     "email": "rohinkhanna88@gmail.com",
-    "phone": "(912) 123-4567",
-    "LinkedIn": "https://www.linkedin.com/in/rohinkhanna/",
-    "summary": "MBA from IIMB with 15 years of experience in Data Science, Product Management, and Business Operations",
+    "LinkedIn": "https://www.linkedin.com/in/rohinkhanna",
+    "Summary": "MBA from IIMB with 15 years of experience in Data Science, Product Management, and Business Operations",
     "location": {
       "address": "Whitefield",
       "postalCode": "KA 560048",
@@ -29,7 +28,9 @@
       "startDate": "Feb 2024",
       "endDate": "Present",
       "summary": "Strategy, solution design, workflow, and architecture lead for the enterprise data science function; innovating, delivering, and optimising AI / LLM / GenAI powered solutions.",
-      "highlights": ["GenAI Solution Architecture"]
+      "highlights": ["Generative AI"]
+      "highlights": ["Solution Architecture"]
+      "highlights": ["Data Engineering"]
     }
   ],
   "volunteer": [
