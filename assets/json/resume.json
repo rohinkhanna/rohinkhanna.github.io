@@ -4,7 +4,8 @@
     "label": "Data Science | Product Management | Business Operations",
     "image": "",
     "email": "rohinkhanna88@gmail.com",
-    "LinkedIn": "https://www.linkedin.com/in/rohinkhanna",
+    "phone": "(912) 123-4567",
+    "url": "https://rohinkhanna.github.io",
     "summary": "MBA from IIMB with 15 years of experience in Data Science, Product Management, and Business Operations",
     "location": {
       "address": "Whitefield",
@@ -24,33 +25,12 @@
   "work": [
     {
       "name": "Wells Fargo",
-      "position": "AI Solution Design and Delivery",
-      "startDate": "Feb 2024",
+      "position": "Vice President - Data Science",
+      "url": "https://example.com",
+      "startDate": "2020",
       "endDate": "Present",
-      "summary": "Strategy, solution design, workflow, and architecture lead for the enterprise data science function; innovating, delivering, and optimising AI / LLM / GenAI powered solutions.",
-      "highlights": ["Generative AI"]
-      "highlights": ["Solution Architecture"]
-      "highlights": ["Data Engineering"]
-    }
-     {
-      "name": "Wells Fargo",
-      "position": "AI Platforms and Product Management",
-      "startDate": "Mar 2022",
-      "endDate": "Feb 2024",
-      "summary": "Enterprise wide platforms, products and capabilities for data ingestion, exploratory analytics, business intelligence, AI model development, model deployment, monitoring, and MLOps.",
-      "highlights": ["Data Science"]
-      "highlights": ["Product Management"]
-      "highlights": ["Cloud Applications"]
-    }
-     {
-      "name": "Wells Fargo",
-      "position": "Strategy and Operations",
-      "startDate": "Jul 2020",
-      "endDate": "Mar 2022",
-      "summary": "Reviewing and enhancing AI CoE's overall performance as a business in the areas of value, cost, time, resources, tools, quality, and capability.",
-      "highlights": ["AI Strategy"]
-      "highlights": ["Model Lifecycle Management"]
-      "highlights": ["Processes and KPI's"]
+      "summary": "Design and architecture for AI/LLM/GenAI powered solutions",
+      "highlights": ["GenAI Solution Architecture"]
     }
   ],
   "volunteer": [
