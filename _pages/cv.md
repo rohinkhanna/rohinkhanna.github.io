@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: Rohin Khanna
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: https://drive.google.com/file/d/1-MysCL3nDntVooTE00AUTm7MburZAwWN/view?usp=sharing
+description: Professional profile of Rohin Khanna
 toc:
   sidebar: left
 ---
